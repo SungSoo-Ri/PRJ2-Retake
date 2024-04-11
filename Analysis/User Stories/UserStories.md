@@ -2,7 +2,7 @@
 
 ## Sales officer:
 
-As a sales officer, I want to be able to register upcoming flights so that I can start the sales process for them.
+As a sales officer, I want to be able to register upcoming flights so that the flights are available for booking so that we can start the sales process.
 
 As a sales officer, I want to be able to start the sales process for registered flights, so I can start selling the ticktes.
 
@@ -12,7 +12,11 @@ As a sales officer, I want to be able to set static discounts (e.g. 10% price re
 
 As a sales officer, I want to be able to set dynamic discounts based on the number of sun hours at the destination, which will be retrieved from an external API.
 
-As a sales officer, I want to be able to cancel flights in case they get revoked. 
+As a sales officer, I want to be able to cancel flights in case they get revoked.
+
+Asa a sales officer, I want to be to add a model to the system, to use them in planes.
+
+Asa a sales officer, I want to be able to delete an airplane, an airport, a model from the system.
 
 As a sales officer, I want to be able to enter passenger info in order to create a booking.
 
@@ -33,6 +37,8 @@ As a sales employee, I want to be able to see the prices calculated by the softw
 As a sales employee, I want to be able to handle concurrent users potentially trying to book limited seats for the same flight, so he can increase the price of the limited seats.
 
 As a sales employee, I want to the system to calculate the booking price so I can see how much does it cost.
+
+As a sales employee, I want the price for the booking to be calculated by the software and depend on the chosen options, to not have to do this manually.
 
 ## Sales manager:
 
