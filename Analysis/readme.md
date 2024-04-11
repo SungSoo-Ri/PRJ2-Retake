@@ -110,7 +110,7 @@ The [data dictionary](DataDictionary.md) provides an overview of all included im
 
 The domain model provides an overview of the relations between the different entities in the business processes. Unlike a class diagram, a domain model does not include all variables neccessary for the application to work.
 
-![Domain model Create Booking](https://github.com/FontysVenlo/prj2-2023-prj2-2023-13/assets/117170300/b3fb20e7-5545-4d95-8404-d7e5fdd6cfbe)
+![Domain model Create Booking]()
 
 ## Use Case Diagram
 <a name='Use-Case-Diagram'/>
