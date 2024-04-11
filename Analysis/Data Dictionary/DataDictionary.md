@@ -1,9 +1,9 @@
 | Command | Description |
 | --- | --- |
-| Airport| An airport is a location where planes depart and arrive. Every airport is located in a city. Every airport also has an [IATA Code](https://en.wikipedia.org/wiki/International_Air_Transport_Association) (e.g. DUS for Düsseldorf).|
+| Airport | An airport is a location where planes depart and arrive. Every airport is located in a city. Every airport also has an [IATA Code](https://en.wikipedia.org/wiki/International_Air_Transport_Association) (e.g. DUS for Düsseldorf).|
 | Booking | A booking represents the arrangement that you make to reserve a flight ticket in advance. This can be made by a staff member. |
 | Customer| The company for which we are building the application.|
-| Extras| Planes can provide different options (e.g. More legroom, More luggage, Food)|
+| Booking Extras| Planes can provide different options (e.g. More legroom, More luggage, Food)|
 | Flight |  The action of flying from one airport to another. A Flight has a Flight ID,Departure Date, Arrival Date, Departure time, Arrival time, Departure airport, Arrival airport and gate number. Each flight must be assigned to two Airports (departure and arrival). |
 | Management dashboard| Presents the key performance indicators.|
 | Passenger | Someone that flies from one place to another through our application. A passenger has a name, email and customer ID. |
