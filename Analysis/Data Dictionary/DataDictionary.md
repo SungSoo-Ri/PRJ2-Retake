@@ -13,3 +13,11 @@
 | Sales manager| A person that manages the company. A sales manager can see important KPIs. A sales manager has a name, email and employee ID. A sales manager can also create bookings.|
 | Sales officer | A person that registers upcoming flights and starts the sales process for them. They can also enable temporary discounts and create bookings. A sales officer has a name, email and employee ID. |
 | Ticket | An information that lets a person on a specific flight. A Ticket has a Ticket ID, Name of the person flying, Departure time, Gate number, The place it is flying from and where to, Flight ID, Price |
+| Airline company | A business organzation that supplies air transportation for passengers or cargo. |
+| Booking options | Option selection for customers to personalise their flight for specific seats or extra luggage. |
+| Business class | Seating on an aircraft that is superior to economy class but less expensive than first class. Targeted towards business travelers. |
+| Economy class | Economy class which is the most lowest tier class that airline uses the cheapest and the most bought class targeted towards commercial flyers. |
+| First class | The highest tier class that is the most expensive and gives high quality service during the flight. |
+| Key performance indicator(KPI) | A record that shows important key performance indicators. It gives revenue numbers, number of tickets sold in each class, and statistics on all options sold to indicate how well the company is doing. |
+| Management dashboard | A graphical user interface which provides Key Performance Indicators (KPIs) for the Sales Manager (revenue numbers, number of tickets sold, statistics of all options sold) |
+
