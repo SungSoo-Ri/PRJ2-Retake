@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a2adb9d4-df7c-4269-bc84-3e66167dae11" name="Changes" comment="" />
+    <list default="true" id="a2adb9d4-df7c-4269-bc84-3e66167dae11" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Implementation/Assembler/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/Implementation/Assembler/src/main/java/module-info.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,9 +32,9 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "skeleton-of-the-project",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/compa/OneDrive/Dokumente/GitHub/prj2-airline-information-system",
+    "last_opened_file_path": "C:/Users/bgoek/OneDrive/Desktop/qp/Uni/z Semester 4/PRJ2/PRJ2 Retake/PRJ2-Retake",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -59,6 +62,7 @@
       <workItem from="1712822787399" duration="992000" />
       <workItem from="1712823964656" duration="169000" />
       <workItem from="1712824310043" duration="2242000" />
+      <workItem from="1719991562163" duration="1310000" />
     </task>
     <servers />
   </component>
