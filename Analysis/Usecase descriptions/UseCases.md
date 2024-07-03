@@ -194,7 +194,7 @@
 | Actor: | Sales officer |
 | Description: | The Sales officer can edit flight information when necessary. |
 | Pre-condition: | Sales officer must be logged in. |
-| Scenario: | 1. Actor clicks on "Search for flight" button. <br> 2. System displays list of flight and search bar <br> 3. Actor enters a flight and presses the search button. <br> 4. System shows the requesteed flight and additional information. <br> 5. User modifies the flight and when they are done they press the "Update" button. <br> 6. System processes the updated information and adjusts the flight in the database. |
+| Scenario: | 1. Actor clicks on "Search for flight" button. <br> 2. System displays a list of flights and a search bar on top. <br> 3. Actor enters a flight and presses the search button. <br> 4. System shows the requesteed flight and additional information. <br> 5. User modifies the flight and when they are done they press the "Update" button. <br> 6. System processes the updated information and adjusts the flight in the database. |
 | Result: | The flight has been modified and the database is updated. |
 
 ### Sales Manager
