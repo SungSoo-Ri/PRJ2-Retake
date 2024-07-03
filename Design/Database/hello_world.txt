@@ -1,0 +1,70 @@
+// Use DBML to define your database structure
+// Docs: https://dbml.dbdiagram.io/docs
+
+Table flight {
+  id integer [primary key]
+  price int
+  depature_time integer
+  arrival_time integer
+  depature_date date
+  arrival_date date
+  depature_airpod Airpod [ref: <> airpod.id]
+  arrival_airopod Airpod [ref: <> airpod.id]
+  plane Plane [ref: <> plane.id]
+}
+Table route {
+  id integer [primary key]
+  flight Flight[] [ref: <> flight.id] 
+}
+Table airpod {
+  id integer [primary key]
+  name varchar
+  iata_code integer
+}
+Table plane {
+  id integer [primary key]
+  model varchar
+  number_of_seats integer
+}
+Table ticket {
+  id integer [primary key]
+  route Route [ref: <> route.id]
+  customer Customer [ref: <> customer.person]
+}
+Table booking {
+  id integer [primary key]
+  route Route [ref: <> route.id]
+  options BookingOptions[] [ref: <> bookingoptions.id]
+}
+Table bookingoptions {
+  id integer [primary key]
+  booking Booking [ref: <> booking.id]
+}
+Table discount {
+  id integer [primary key]
+  price FlightPrice [ref: <> flight.price]
+  static bool
+  dynamic bool
+}
+Table person {
+  id integer [primary key]
+  name varchar
+}
+Table customer{
+  person Person [ref: <> person.id]
+}
+Table staff{
+  person Person [ref: <> person.id]
+}
+Table salesemployee{
+  staff Staff [ref: <> staff.person]
+}
+Table salesofficer{
+  staff Staff [ref: <> staff.person]
+}
+Table salesmanager{
+  staff Staff [ref: <> staff.person]
+}
+Table dashboard {
+  salesmanager Salesmanagers [ref: <> salesmanager.staff]
+}
