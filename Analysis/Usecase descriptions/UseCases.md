@@ -18,6 +18,7 @@
 - [Update staff account](#16)
 - [Remove staff account](#17)
 - [Add extras to booking.](#18)
+- [Edit flight information](#19)
 
 ### Sales employee
 
@@ -185,6 +186,16 @@
 | Pre-condition: | Sales officer must be logged in. |
 | Scenario: | 1. Actor clicks on "Add airport" button. <br> 2. System displays form(Country, City, IATA code) <br> 3. Actor fills out the form <br> 4. Actor presses the confirm button. <br> 5. System processes the information and adds the airport to the database. |
 | Result: | The airport is now registered and flights from and to the airport are now possible. |
+
+<a name="19"></a>
+| Info | Description |
+| --- | --- |
+| Name: | Edit Flight Information |
+| Actor: | Sales officer |
+| Description: | The Sales officer can edit flight information when necessary. |
+| Pre-condition: | Sales officer must be logged in. |
+| Scenario: | 1. Actor clicks on "Search for flight" button. <br> 2. System displays list of flight and search bar <br> 3. Actor enters a flight and presses the search button. <br> 4. System shows the requesteed flight and additional information. <br> 5. User modifies the flight and when they are done they press the "Update" button. <br> 6. System processes the updated information and adjusts the flight in the database. |
+| Result: | The flight has been modified and the database is updated. |
 
 ### Sales Manager
 
