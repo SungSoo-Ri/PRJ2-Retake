@@ -1,0 +1,52 @@
+@options
+@packages
+@argfile
+--module-path
+'C:/Users/vando/Documents/GitHub/PRJ2-Retake/Implementation/Persistence/target/Persistence-1.0-SNAPSHOT.jar;C:/Users/vando/.m2/repository/org/postgresql/postgresql/42.7.3/postgresql-42.7.3.jar;C:/Users/vando/Documents/GitHub/PRJ2-Retake/Implementation/DataRecords/target/DataRecords-1.0-SNAPSHOT.jar'
+--patch-module
+persistence_module='C:/Users/vando/Documents/GitHub/PRJ2-Retake/Implementation/Persistence/src/main/java;C:/Users/vando/Documents/GitHub/PRJ2-Retake/Implementation/Persistence/target/generated-sources/annotations'
+-encoding
+'UTF-8'
+-protected
+--release
+21
+--module-source-path
+'C:/Users/vando/Documents/GitHub/PRJ2-Retake/Implementation/Persistence/target/apidocs/src'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/vando/Documents/GitHub/PRJ2-Retake/Implementation/Persistence/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Persistence 1.0-SNAPSHOT API'
+-linkoffline
+'https://fontysvenlo.github.io/informaticspom/airlineinformationsystem/DataRecords/apidocs' 'C:/Users/vando/Documents/GitHub/PRJ2-Retake/Implementation/DataRecords/target/apidocs'
+-use
+-version
+-windowtitle
+'Persistence 1.0-SNAPSHOT API'
+persistence
+'C:/Users/vando/Documents/GitHub/PRJ2-Retake/Implementation/Persistence/src/main/java/module-info.java'
+C:\Users\vando\Documents\GitHub\PRJ2-Retake\Implementation\Persistence\target\apidocs\allclasses-index.html = 1719997769439
+C:\Users\vando\Documents\GitHub\PRJ2-Retake\Implementation\Persistence\target\apidocs\allpackages-index.html = 1719997769439
+C:\Users\vando\Documents\GitHub\PRJ2-Retake\Implementation\Persistence\target\apidocs\copy.svg = 1719997769475
+C:\Users\vando\Documents\GitHub\PRJ2-Retake\Implementation\Persistence\target\apidocs\element-list = 1719997769386
+C:\Users\vando\Documents\GitHub\PRJ2-Retake\Implementation\Persistence\target\apidocs\help-doc.html = 1719997769471
+C:\Users\vando\Documents\GitHub\PRJ2-Retake\Implementation\Persistence\target\apidocs\index-all.html = 1719997769456
+C:\Users\vando\Documents\GitHub\PRJ2-Retake\Implementation\Persistence\target\apidocs\index.html = 1719997769456
+C:\Users\vando\Documents\GitHub\PRJ2-Retake\Implementation\Persistence\target\apidocs\link.svg = 1719997769478
+C:\Users\vando\Documents\GitHub\PRJ2-Retake\Implementation\Persistence\target\apidocs\member-search-index.js = 1719997769456
+C:\Users\vando\Documents\GitHub\PRJ2-Retake\Implementation\Persistence\target\apidocs\module-search-index.js = 1719997769439
+C:\Users\vando\Documents\GitHub\PRJ2-Retake\Implementation\Persistence\target\apidocs\overview-tree.html = 1719997769439
+C:\Users\vando\Documents\GitHub\PRJ2-Retake\Implementation\Persistence\target\apidocs\package-search-index.js = 1719997769455
+C:\Users\vando\Documents\GitHub\PRJ2-Retake\Implementation\Persistence\target\apidocs\script.js = 1719997769475
+C:\Users\vando\Documents\GitHub\PRJ2-Retake\Implementation\Persistence\target\apidocs\search-page.js = 1719997769484
+C:\Users\vando\Documents\GitHub\PRJ2-Retake\Implementation\Persistence\target\apidocs\search.html = 1719997769456
+C:\Users\vando\Documents\GitHub\PRJ2-Retake\Implementation\Persistence\target\apidocs\search.js = 1719997769481
+C:\Users\vando\Documents\GitHub\PRJ2-Retake\Implementation\Persistence\target\apidocs\stylesheet.css = 1719997769471
+C:\Users\vando\Documents\GitHub\PRJ2-Retake\Implementation\Persistence\target\apidocs\tag-search-index.js = 1719997769456
+C:\Users\vando\Documents\GitHub\PRJ2-Retake\Implementation\Persistence\target\apidocs\type-search-index.js = 1719997769455

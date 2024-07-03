@@ -1,0 +1,50 @@
+@options
+@packages
+@argfile
+--module-path
+'C:/Users/vando/Documents/GitHub/PRJ2-Retake/Implementation/DataRecords/target/DataRecords-1.0-SNAPSHOT.jar'
+--patch-module
+datarecords_module='C:/Users/vando/Documents/GitHub/PRJ2-Retake/Implementation/DataRecords/src/main/java;C:/Users/vando/Documents/GitHub/PRJ2-Retake/Implementation/DataRecords/target/generated-sources/annotations'
+-encoding
+'UTF-8'
+-protected
+--release
+21
+--module-source-path
+'C:/Users/vando/Documents/GitHub/PRJ2-Retake/Implementation/DataRecords/target/apidocs/src'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/vando/Documents/GitHub/PRJ2-Retake/Implementation/DataRecords/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'DataRecords 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'DataRecords 1.0-SNAPSHOT API'
+datarecords
+'C:/Users/vando/Documents/GitHub/PRJ2-Retake/Implementation/DataRecords/src/main/java/module-info.java'
+C:\Users\vando\Documents\GitHub\PRJ2-Retake\Implementation\DataRecords\target\apidocs\allclasses-index.html = 1719997767869
+C:\Users\vando\Documents\GitHub\PRJ2-Retake\Implementation\DataRecords\target\apidocs\allpackages-index.html = 1719997767871
+C:\Users\vando\Documents\GitHub\PRJ2-Retake\Implementation\DataRecords\target\apidocs\copy.svg = 1719997767897
+C:\Users\vando\Documents\GitHub\PRJ2-Retake\Implementation\DataRecords\target\apidocs\element-list = 1719997767823
+C:\Users\vando\Documents\GitHub\PRJ2-Retake\Implementation\DataRecords\target\apidocs\help-doc.html = 1719997767891
+C:\Users\vando\Documents\GitHub\PRJ2-Retake\Implementation\DataRecords\target\apidocs\index-all.html = 1719997767879
+C:\Users\vando\Documents\GitHub\PRJ2-Retake\Implementation\DataRecords\target\apidocs\index.html = 1719997767888
+C:\Users\vando\Documents\GitHub\PRJ2-Retake\Implementation\DataRecords\target\apidocs\link.svg = 1719997767898
+C:\Users\vando\Documents\GitHub\PRJ2-Retake\Implementation\DataRecords\target\apidocs\member-search-index.js = 1719997767875
+C:\Users\vando\Documents\GitHub\PRJ2-Retake\Implementation\DataRecords\target\apidocs\module-search-index.js = 1719997767871
+C:\Users\vando\Documents\GitHub\PRJ2-Retake\Implementation\DataRecords\target\apidocs\overview-tree.html = 1719997767856
+C:\Users\vando\Documents\GitHub\PRJ2-Retake\Implementation\DataRecords\target\apidocs\package-search-index.js = 1719997767875
+C:\Users\vando\Documents\GitHub\PRJ2-Retake\Implementation\DataRecords\target\apidocs\script.js = 1719997767891
+C:\Users\vando\Documents\GitHub\PRJ2-Retake\Implementation\DataRecords\target\apidocs\search-page.js = 1719997767903
+C:\Users\vando\Documents\GitHub\PRJ2-Retake\Implementation\DataRecords\target\apidocs\search.html = 1719997767879
+C:\Users\vando\Documents\GitHub\PRJ2-Retake\Implementation\DataRecords\target\apidocs\search.js = 1719997767900
+C:\Users\vando\Documents\GitHub\PRJ2-Retake\Implementation\DataRecords\target\apidocs\stylesheet.css = 1719997767891
+C:\Users\vando\Documents\GitHub\PRJ2-Retake\Implementation\DataRecords\target\apidocs\tag-search-index.js = 1719997767877
+C:\Users\vando\Documents\GitHub\PRJ2-Retake\Implementation\DataRecords\target\apidocs\type-search-index.js = 1719997767875

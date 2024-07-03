@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"gui","c":"GUIApp","l":"getSceneManager()"},{"p":"gui","c":"GUIApp","l":"GUIApp(BusinessLogicAPI)","u":"%3Cinit%3E(businesslogic.BusinessLogicAPI)"},{"p":"gui","c":"GUIApp","l":"show()"},{"p":"gui","c":"GUIApp","l":"start(Stage)","u":"start(javafx.stage.Stage)"}];updateSearchResults();

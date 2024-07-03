@@ -1,0 +1,54 @@
+@options
+@packages
+@argfile
+--module-path
+'C:/Users/vando/Documents/GitHub/PRJ2-Retake/Implementation/BusinessLogic/target/BusinessLogic-1.0-SNAPSHOT.jar;C:/Users/vando/Documents/GitHub/PRJ2-Retake/Implementation/Persistence/target/Persistence-1.0-SNAPSHOT.jar;C:/Users/vando/.m2/repository/org/postgresql/postgresql/42.7.3/postgresql-42.7.3.jar;C:/Users/vando/Documents/GitHub/PRJ2-Retake/Implementation/DataRecords/target/DataRecords-1.0-SNAPSHOT.jar'
+--patch-module
+businesslogic_module='C:/Users/vando/Documents/GitHub/PRJ2-Retake/Implementation/BusinessLogic/src/main/java;C:/Users/vando/Documents/GitHub/PRJ2-Retake/Implementation/BusinessLogic/target/generated-sources/annotations'
+-encoding
+'UTF-8'
+-protected
+--release
+21
+--module-source-path
+'C:/Users/vando/Documents/GitHub/PRJ2-Retake/Implementation/BusinessLogic/target/apidocs/src'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/vando/Documents/GitHub/PRJ2-Retake/Implementation/BusinessLogic/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'BusinessLogic 1.0-SNAPSHOT API'
+-linkoffline
+'https://fontysvenlo.github.io/informaticspom/airlineinformationsystem/DataRecords/apidocs' 'C:/Users/vando/Documents/GitHub/PRJ2-Retake/Implementation/DataRecords/target/apidocs'
+-linkoffline
+'https://fontysvenlo.github.io/informaticspom/airlineinformationsystem/Persistence/apidocs' 'C:/Users/vando/Documents/GitHub/PRJ2-Retake/Implementation/Persistence/target/apidocs'
+-use
+-version
+-windowtitle
+'BusinessLogic 1.0-SNAPSHOT API'
+businesslogic
+'C:/Users/vando/Documents/GitHub/PRJ2-Retake/Implementation/BusinessLogic/src/main/java/module-info.java'
+C:\Users\vando\Documents\GitHub\PRJ2-Retake\Implementation\BusinessLogic\target\apidocs\allclasses-index.html = 1719997770975
+C:\Users\vando\Documents\GitHub\PRJ2-Retake\Implementation\BusinessLogic\target\apidocs\allpackages-index.html = 1719997770989
+C:\Users\vando\Documents\GitHub\PRJ2-Retake\Implementation\BusinessLogic\target\apidocs\copy.svg = 1719997771021
+C:\Users\vando\Documents\GitHub\PRJ2-Retake\Implementation\BusinessLogic\target\apidocs\element-list = 1719997770893
+C:\Users\vando\Documents\GitHub\PRJ2-Retake\Implementation\BusinessLogic\target\apidocs\help-doc.html = 1719997771005
+C:\Users\vando\Documents\GitHub\PRJ2-Retake\Implementation\BusinessLogic\target\apidocs\index-all.html = 1719997770993
+C:\Users\vando\Documents\GitHub\PRJ2-Retake\Implementation\BusinessLogic\target\apidocs\index.html = 1719997770993
+C:\Users\vando\Documents\GitHub\PRJ2-Retake\Implementation\BusinessLogic\target\apidocs\link.svg = 1719997771021
+C:\Users\vando\Documents\GitHub\PRJ2-Retake\Implementation\BusinessLogic\target\apidocs\member-search-index.js = 1719997770993
+C:\Users\vando\Documents\GitHub\PRJ2-Retake\Implementation\BusinessLogic\target\apidocs\module-search-index.js = 1719997770990
+C:\Users\vando\Documents\GitHub\PRJ2-Retake\Implementation\BusinessLogic\target\apidocs\overview-tree.html = 1719997770975
+C:\Users\vando\Documents\GitHub\PRJ2-Retake\Implementation\BusinessLogic\target\apidocs\package-search-index.js = 1719997770991
+C:\Users\vando\Documents\GitHub\PRJ2-Retake\Implementation\BusinessLogic\target\apidocs\script.js = 1719997771010
+C:\Users\vando\Documents\GitHub\PRJ2-Retake\Implementation\BusinessLogic\target\apidocs\search-page.js = 1719997771024
+C:\Users\vando\Documents\GitHub\PRJ2-Retake\Implementation\BusinessLogic\target\apidocs\search.html = 1719997770993
+C:\Users\vando\Documents\GitHub\PRJ2-Retake\Implementation\BusinessLogic\target\apidocs\search.js = 1719997771024
+C:\Users\vando\Documents\GitHub\PRJ2-Retake\Implementation\BusinessLogic\target\apidocs\stylesheet.css = 1719997771010
+C:\Users\vando\Documents\GitHub\PRJ2-Retake\Implementation\BusinessLogic\target\apidocs\tag-search-index.js = 1719997770993
+C:\Users\vando\Documents\GitHub\PRJ2-Retake\Implementation\BusinessLogic\target\apidocs\type-search-index.js = 1719997770992

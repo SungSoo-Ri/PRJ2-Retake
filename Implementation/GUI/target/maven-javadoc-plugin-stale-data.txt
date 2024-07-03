@@ -1,0 +1,54 @@
+@options
+@packages
+@argfile
+--class-path
+'C:/Users/vando/.m2/repository/org/openjfx/javafx-controls/21.0.2/javafx-controls-21.0.2.jar;C:/Users/vando/.m2/repository/org/openjfx/javafx-graphics/21.0.2/javafx-graphics-21.0.2.jar;C:/Users/vando/.m2/repository/org/openjfx/javafx-base/21.0.2/javafx-base-21.0.2.jar;C:/Users/vando/.m2/repository/org/openjfx/javafx-fxml/21.0.2/javafx-fxml-21.0.2.jar'
+--module-path
+'C:/Users/vando/.m2/repository/org/openjfx/javafx-graphics/21.0.2/javafx-graphics-21.0.2-win.jar;C:/Users/vando/Documents/GitHub/PRJ2-Retake/Implementation/BusinessLogic/target/BusinessLogic-1.0-SNAPSHOT.jar;C:/Users/vando/Documents/GitHub/PRJ2-Retake/Implementation/Persistence/target/Persistence-1.0-SNAPSHOT.jar;C:/Users/vando/.m2/repository/org/postgresql/postgresql/42.7.3/postgresql-42.7.3.jar;C:/Users/vando/Documents/GitHub/PRJ2-Retake/Implementation/DataRecords/target/DataRecords-1.0-SNAPSHOT.jar;C:/Users/vando/Documents/GitHub/PRJ2-Retake/Implementation/GUI/target/GUI-1.0-SNAPSHOT.jar;C:/Users/vando/.m2/repository/org/openjfx/javafx-fxml/21.0.2/javafx-fxml-21.0.2-win.jar;C:/Users/vando/.m2/repository/org/openjfx/javafx-controls/21.0.2/javafx-controls-21.0.2-win.jar;C:/Users/vando/.m2/repository/org/openjfx/javafx-base/21.0.2/javafx-base-21.0.2-win.jar'
+--patch-module
+gui_module='C:/Users/vando/Documents/GitHub/PRJ2-Retake/Implementation/GUI/src/main/java;C:/Users/vando/Documents/GitHub/PRJ2-Retake/Implementation/GUI/target/generated-sources/annotations'
+-encoding
+'UTF-8'
+-protected
+--release
+21
+--module-source-path
+'C:/Users/vando/Documents/GitHub/PRJ2-Retake/Implementation/GUI/target/apidocs/src'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/vando/Documents/GitHub/PRJ2-Retake/Implementation/GUI/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'GUI 1.0-SNAPSHOT API'
+-linkoffline
+'https://fontysvenlo.github.io/informaticspom/airlineinformationsystem/BusinessLogic/apidocs' 'C:/Users/vando/Documents/GitHub/PRJ2-Retake/Implementation/BusinessLogic/target/apidocs'
+-use
+-version
+-windowtitle
+'GUI 1.0-SNAPSHOT API'
+gui
+'C:/Users/vando/Documents/GitHub/PRJ2-Retake/Implementation/GUI/src/main/java/module-info.java'
+C:\Users\vando\Documents\GitHub\PRJ2-Retake\Implementation\GUI\target\apidocs\allclasses-index.html = 1719997773309
+C:\Users\vando\Documents\GitHub\PRJ2-Retake\Implementation\GUI\target\apidocs\allpackages-index.html = 1719997773313
+C:\Users\vando\Documents\GitHub\PRJ2-Retake\Implementation\GUI\target\apidocs\copy.svg = 1719997773331
+C:\Users\vando\Documents\GitHub\PRJ2-Retake\Implementation\GUI\target\apidocs\element-list = 1719997773253
+C:\Users\vando\Documents\GitHub\PRJ2-Retake\Implementation\GUI\target\apidocs\help-doc.html = 1719997773331
+C:\Users\vando\Documents\GitHub\PRJ2-Retake\Implementation\GUI\target\apidocs\index-all.html = 1719997773327
+C:\Users\vando\Documents\GitHub\PRJ2-Retake\Implementation\GUI\target\apidocs\index.html = 1719997773331
+C:\Users\vando\Documents\GitHub\PRJ2-Retake\Implementation\GUI\target\apidocs\link.svg = 1719997773331
+C:\Users\vando\Documents\GitHub\PRJ2-Retake\Implementation\GUI\target\apidocs\member-search-index.js = 1719997773316
+C:\Users\vando\Documents\GitHub\PRJ2-Retake\Implementation\GUI\target\apidocs\module-search-index.js = 1719997773314
+C:\Users\vando\Documents\GitHub\PRJ2-Retake\Implementation\GUI\target\apidocs\overview-tree.html = 1719997773301
+C:\Users\vando\Documents\GitHub\PRJ2-Retake\Implementation\GUI\target\apidocs\package-search-index.js = 1719997773314
+C:\Users\vando\Documents\GitHub\PRJ2-Retake\Implementation\GUI\target\apidocs\script.js = 1719997773331
+C:\Users\vando\Documents\GitHub\PRJ2-Retake\Implementation\GUI\target\apidocs\search-page.js = 1719997773347
+C:\Users\vando\Documents\GitHub\PRJ2-Retake\Implementation\GUI\target\apidocs\search.html = 1719997773331
+C:\Users\vando\Documents\GitHub\PRJ2-Retake\Implementation\GUI\target\apidocs\search.js = 1719997773331
+C:\Users\vando\Documents\GitHub\PRJ2-Retake\Implementation\GUI\target\apidocs\stylesheet.css = 1719997773331
+C:\Users\vando\Documents\GitHub\PRJ2-Retake\Implementation\GUI\target\apidocs\tag-search-index.js = 1719997773316
+C:\Users\vando\Documents\GitHub\PRJ2-Retake\Implementation\GUI\target\apidocs\type-search-index.js = 1719997773314
